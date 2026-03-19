@@ -1,2 +1,2 @@
 # MPI_project
-The codes for the MPI project
+The source-code for the MPI project
